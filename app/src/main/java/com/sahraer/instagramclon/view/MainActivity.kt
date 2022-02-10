@@ -1,10 +1,8 @@
-package com.sahraer.instagramclon
+package com.sahraer.instagramclon.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.google.firebase.auth.FirebaseAuth
-import com.sahraer.instagramclon.databinding.ActivityFeedBinding
 import com.sahraer.instagramclon.databinding.ActivityMainBinding
 import kotlinx.android.synthetic.main.activity_main.*
 

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/add_post" app:showAsAction="always" android:icon="@drawable/ic_add"></item>
+    <item android:id="@+id/sign_out" app:showAsAction="always" android:icon="@drawable/ic_logout" android:iconTint="@color/white"
+        ></item>
+</menu>

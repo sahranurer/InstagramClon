@@ -5,12 +5,15 @@
       <map>
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/drawable/button_bg.xml" value="0.1890625" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/drawable/edit_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/drawable/edit_bg2.xml" value="0.19054054054054054" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/drawable/vie_bg.xml" value="0.2203125" />
-        <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/layout/activity_feed.xml" value="0.11081081081081082" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/layout/activity_feed.xml" value="0.21" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/layout/activity_upload.xml" value="0.18" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/layout/login_tab_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/layout/recyler_row.xml" value="0.25" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/layout/signup_tab_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/InstagramClon/app/src/main/res/menu/inst_menu.xml" value="0.25" />
       </map>
     </option>
   </component>

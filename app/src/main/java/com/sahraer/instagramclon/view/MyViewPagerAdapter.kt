@@ -1,4 +1,4 @@
-package com.sahraer.instagramclon
+package com.sahraer.instagramclon.view
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
